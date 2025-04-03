@@ -9,3 +9,6 @@ Tutorial 2 (Part A)
 - As a team create a github repo with your team name, once a team member has completed the SSH task they need to upload a screenshot to your team Repo (You may use the github GUI but extra points will be awarded if you each manage to make use of the git cli to upload it to your repo)
 
 Once all these are done, you will need to share a link to your Github repo as well as screenshots of you either using the Github GUI or the Git cli when you uploaded the screenshot
+
+# Tut 2 (Part B): Compiling btop from Source
+Adapted from: Sayfullah Jumoorty, with original instructions [here](https://github.com/aristocratos/btop#compilation-linux)
