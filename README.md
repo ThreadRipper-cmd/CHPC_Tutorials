@@ -1,14 +1,23 @@
-# vm-ssh-tutorial
-Tutorial 2 (Part A)
-- SSH (without SSH key)
-- Find your VMs IP address then SSH into it via your localhost's terminal
-- SSH (with SSH key)
-- Generate keys for localhost (not your VM)
-- Add localhost's SSH key to your VMs SSH hosts file
-- (Team Activity)
-- As a team create a github repo with your team name, once a team member has completed the SSH task they need to upload a screenshot to your team Repo (You may use the github GUI but extra points will be awarded if you each manage to make use of the git cli to upload it to your repo)
+## Tutorials
 
-Once all these are done, you will need to share a link to your Github repo as well as screenshots of you either using the Github GUI or the Git cli when you uploaded the screenshot
+### Tut 2 (Part A): SSH into Virtual Machine
+---
 
-# Tut 2 (Part B): Compiling btop from Source
-Adapted from: Sayfullah Jumoorty, with original instructions [here](https://github.com/aristocratos/btop#compilation-linux)
+![vm-shh](https://github.com/user-attachments/assets/f9f4a012-4dea-427c-bf15-965a74eecbd5)
+Part A covered the creation of SSH keys and the abilitiy to conncet to a virtual machine without a password.
+
+### Tut 2 (Part B): Compiling Btop from source
+---
+
+![liberator_btop](https://github.com/user-attachments/assets/f5e8b107-47ee-4e69-bbe5-ea5def2b0259)
+Part B was an introduction to compiling a project from source. In this case, it was Btop a task manager and resource monitor
+
+Adapted from: Sayfullah Jumoorty, with original instructions [here](https://github.com/aristocratos/btop#compilation-linux).
+
+### Tut 3: Installation, compiling and running HPL Benchmark
+---
+
+![param-values](https://github.com/user-attachments/assets/03c3a855-5998-4387-b160-8c8477193750)
+![End-of-tests](https://github.com/user-attachments/assets/f8a2b20b-6ad8-499d-8b0f-74c3efdba8d8)
+This tutorial focused on installing and compiling HPL. HPL is a crucial tool for benchmarking and comparing the performance of super computing systems
+
